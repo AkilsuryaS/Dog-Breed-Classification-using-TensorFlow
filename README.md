@@ -1,5 +1,7 @@
 # End-to-end Multi-class Dog Breed Classification using Transfer Learning
 
+![](https://github.com/AkilsuryaS/Dog-Breed-Classification-using-TensorFlow/blob/main/images/Cover%20pic.jpg)
+
 This notebook builds an end-to-end multi-class image classifier using
 TensorFlow 2.0 and TensorFlow Hub.
 
